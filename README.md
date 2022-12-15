@@ -8,7 +8,7 @@
  ---
 
 ## Sobre o Projeto
-O Projeto Todo foi desenvolvido em react com firebase, uma aplicação completa onde podemos atualizar,excluir, registrar itens, utilizando toda parte um sitema de login e cadastro e utilizando a parte de proteção de rotas.  Cada usuario quando fizer o login e cadastrar suas tarefas vai ter suas proprias tarefas, pode editar sua tarefas e concluir.
+O Projeto Todo foi desenvolvido em React com Firebase, uma aplicação completa onde podemos atualizar, excluir, registrar itens, utilizando toda parte um sistema de login e cadastro e utilizando a parte de proteção de rotas.  Cada usuário quando fizer o login e cadastrar suas tarefas vai ter suas próprias tarefas, pode editar sua tarefas e concluir.
 
 ### Features
 - [x] Cadastrar usuario.
