@@ -19,7 +19,7 @@ O Projeto Todo foi desenvolvido em react com firebase, uma aplicação completa 
 
 
 
-### Link do projeto: 
+### Link do projeto: https://lista-detarefas.netlify.app/
 
 ### 🛠 Tecnologias
 #### As seguintes ferramentas foram usadas na construção do projeto:
@@ -36,7 +36,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone  
+$ git clone  https://github.com/deniseschirmer/to-do-list
 
 # Acesse a pasta do projeto no terminal/cmd
 
